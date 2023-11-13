@@ -10,3 +10,6 @@ Sentiment Analysis | [![Open In Colab](https://colab.research.google.com/assets/
 
 ### Datasets
 Some of the datasets are shared in notebooks others are not shared because of privacy and copyright issues. Similar ones can be found on kaggle.
+
+### Data Source
+For most projects data is taken from open datasets https://archive.ics.uci.edu/
